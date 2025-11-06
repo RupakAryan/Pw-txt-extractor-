@@ -12,15 +12,15 @@
     "env": {
         "API_ID": {
             "description": "Enter your API id You can generate by https://my.telegram.org/auth",
-            "value" : "29177634"
+            "value" : "29978901"
         },
         "API_HASH": {
             "description": "Enter your API Hash You can generate by https://my.telegram.org/auth",
-            "value" : "5eb1b467a4587b19a717626386469f94"
+            "value" : "500fc876c5356cf04ed3698912dc2edf"
         },
         "BOT_TOKEN": {
             "description": "Enter your bot token You can generate by @BotFather",
-            "value" : "7644668124:AAE3JLKyiKbWolr33InO5-QKk6lphqnu1UI"
+            "value" : "8464714544:AAGNMuJw6wnSsJ1HBchtZBjJednvvY8v9a8"
         }
     },
     "addons": []
